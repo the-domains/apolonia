@@ -1,7 +1,7 @@
 name: Apolonia
 favicon: null
 layout_spectrum: 0.25729
-typography_spectrum: 0.74111
+typography_spectrum: 0.24266
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#2b3f95'
     - '#d8d8d8'
     - '#96261b'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.4639045197982341
