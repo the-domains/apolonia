@@ -1,7 +1,7 @@
 name: Apolonia
 favicon: null
-layout_spectrum: 0.89984
-typography_spectrum: 0.6007
+layout_spectrum: 0.037121753208339214
+typography_spectrum: 0.04007555032148957
 title: Apolonia
 description: Through My Eyes
 cta:
@@ -18,13 +18,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#130000'
-    - '#e2ab5c'
-    - '#4e0300'
-    - '#d08b35'
-    - '#b75e10'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.5455007455311716
+  lightness: 0.13172860583290458
+  saturation: 0.9511005282402039
+  rhythmicContrast: 0.28955975105054677
 purpose: []
