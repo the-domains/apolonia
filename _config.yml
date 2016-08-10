@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About Apolonia
-    id: 7c421e79-e2d9-44c5-9ad7-2166398d0f8e
-    type: content
 favicon: null
 title: Apolonia
 description: Through My Eyes
