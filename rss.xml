@@ -4,8 +4,15 @@
         <description><![CDATA[Apolonia]]></description>
         <link>https://thegrid.ai/apolonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 09:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 16:29:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apolonia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e9e2dbe-4a1c-4349-8b7a-dd5bfdf1029c.jpg">]]></description>
+            <link>https://thegrid.ai/apolonia/self/index.html</link>
+            <guid isPermaLink="false">7c421e79-e2d9-44c5-9ad7-2166398d0f8e</guid>
+            <pubDate>Wed, 10 Aug 2016 16:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My city that never sleeps]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f744efb-d5ac-4bff-aede-8e32346d8c28.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/apolonia/love-engaged/index.html</link>
             <guid isPermaLink="false">2512537a-b1a9-4405-a4cb-0ea09280c123</guid>
             <pubDate>Tue, 09 Aug 2016 03:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e9e2dbe-4a1c-4349-8b7a-dd5bfdf1029c.jpg">]]></description>
-            <link>https://thegrid.ai/apolonia/self/index.html</link>
-            <guid isPermaLink="false">7c421e79-e2d9-44c5-9ad7-2166398d0f8e</guid>
-            <pubDate>Sat, 06 Aug 2016 06:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
