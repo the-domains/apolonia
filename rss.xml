@@ -4,7 +4,7 @@
         <description><![CDATA[Apolonia]]></description>
         <link>https://thegrid.ai/apolonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 08:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 08:36:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apolonia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My city that never sleeps]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/apolonia/c82830e9-7e19-49f3-b8cb-c7c4e8a2c1bd/index.html</link>
             <guid isPermaLink="false">c82830e9-7e19-49f3-b8cb-c7c4e8a2c1bd</guid>
             <pubDate>Wed, 10 Aug 2016 01:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smoke]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/522052aa0500bcb4f184f10604ddf16902cfda86.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/apolonia/smoke/index.html</link>
+            <guid isPermaLink="false">d2e82bde-67cb-4494-a70a-9d0befca852f</guid>
+            <pubDate>Wed, 10 Aug 2016 08:36:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/apolonia/self/index.html</link>
             <guid isPermaLink="false">7c421e79-e2d9-44c5-9ad7-2166398d0f8e</guid>
             <pubDate>Sat, 06 Aug 2016 06:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smoke]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dcc067f-9da7-4f2f-9a4e-b7ab7fc075c0.jpg">]]></description>
-            <link>https://thegrid.ai/apolonia/smoke/index.html</link>
-            <guid isPermaLink="false">d2e82bde-67cb-4494-a70a-9d0befca852f</guid>
-            <pubDate>Thu, 05 May 2016 07:48:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
