@@ -1,21 +1,4 @@
-name: Apolonia
-favicon: null
-layout_spectrum: 0.037121753208339214
 typography_spectrum: 0.8609936540015042
-title: Apolonia
-description: Through My Eyes
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#DDDCC5'
@@ -27,4 +10,25 @@ color:
   lightness: 0.13172860583290458
   saturation: 0.9511005282402039
   rhythmicContrast: 0.28955975105054677
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.037121753208339214
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Apolonia
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Apolonia
+    id: 7c421e79-e2d9-44c5-9ad7-2166398d0f8e
+    type: content
+favicon: null
+title: Apolonia
+description: Through My Eyes
 purpose: []
